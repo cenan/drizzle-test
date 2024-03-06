@@ -1,0 +1,5 @@
+```
+npx drizzle-kit studio
+```
+
+
